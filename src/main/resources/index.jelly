@@ -1,0 +1,4 @@
+<?jelly escape-by-default='true'?>
+<div>
+    This Plugin will print admin message to the build Console log.
+</div>
